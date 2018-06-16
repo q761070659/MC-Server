@@ -1,0 +1,15 @@
+武器:
+桐人武器:
+
+逐暗者
+ID:276
+Lore:dark repulsor
+
+阐释者
+ID:267
+Lore:elucidator
+
+其他:
+密集大剑
+ID:267
+Lore:tiejian.lunai
